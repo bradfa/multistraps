@@ -1,0 +1,3 @@
+# Remap keycode 116 (KEY_POWER) to perform a shutdown
+s/keycode 116 = Do/keycode 116 = KeyboardSignal/
+
